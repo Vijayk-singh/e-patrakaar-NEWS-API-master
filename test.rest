@@ -1,0 +1,12 @@
+GET http://localhost:80/everything
+# Content-Type: application/json
+
+# {
+# "author": "Efe hello2 Udin",
+# "title": "Elon hello3 Musk has plans to make a smartphone but only if…",
+# "description": "If we are hello3 sure of anything about Elon Musk, it should be his controversial nature. Elon Musk has “funny” views about several topics. He has ...\nThe post Elon Musk has plans to make a smartphone but only if… appeared first on Gizchina.com.",
+# "url": "https://www.gizchihello3na.com/2022/11/26/elon-musk-has-plans-to-make-a-smartphone-but-only-if/",
+# "urlToImage": "https://www.gizchina.com/wp-content/uploads/images/2022/11/imagem_2022-11-18_211111673.png",
+# "publishedAt": "2022-11-26T09:22:14Z",
+# "content": "If  hello3 we are sure of anything about Elon Musk, it should be his controversial nature. Elon Musk has “funny” views about several topics. He has always expressed his dissatisfaction with Twitter suppressi… [+5391 chars]"
+# }
